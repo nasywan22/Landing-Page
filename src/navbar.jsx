@@ -15,7 +15,7 @@ function NavigationBar() {
 
     return (
         <>
-            <div className="navbar container-xl w-full bg-slate-700 flex justify-between items-center px-10 py-0 h-14 fixed top-0">
+            <div className="z-20 navbar container-xl w-full bg-slate-700 flex justify-between items-center px-10 py-0 h-14 fixed top-0">
                 <div className="ntahlah flex gap-6 items-center">
                     <h1 className="text-white font-semibold text-xl cursor-default select-none">MyNavbar</h1>
 
